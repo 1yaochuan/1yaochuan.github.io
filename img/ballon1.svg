@@ -1,11 +1,45 @@
-<?xml version="1.0"?>
-<svg width="839.2" height="727.08" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" _mstHash="1" _mstTextHash="19428630" data-name="Layer 1">
- <title _isTranslated="1">生日快乐</title>第
- <g _isTranslated="1" class="layer">
-  <title _isTranslated="1">1</title>
-  <path _isTranslated="1" d="m488.31,468c-3.94,12.79 2,27.91 13.53,34.64c4.84,2.82 10.41,4.24 15.1,7.3c10.19,6.64 14.21,19.35 17.52,31.05c3.8,13.45 7.61,27.67 4.13,41.2c-2.22,8.63 -7.27,16.26 -10.14,24.7a51.54,51.54 0 0 0 -2.45,22c0.42,3.94 1.4,8 4.1,10.94c3.9,4.2 10.18,4.83 15.82,5.84a76.78,76.78 0 0 1 55.2,42.74" fill="none" id="svg_1" stroke="#535461" stroke-miterlimit="10" stroke-width="2" transform="translate(-180.4 -86.46)"/>
-  <polygon _isTranslated="1" fill="#f55f44" id="svg_2" points="324.76 390.14 298.28 390.14 302.92 374.26 318.8 374.26 324.76 390.14"/>
-  <path _isTranslated="1" d="m419.12,225.16c0,60.68 -49.19,149.57 -109.86,149.57s-109.86,-88.9 -109.86,-149.57a109.86,109.86 0 0 1 219.73,0l-0.01,0z" fill="#f55f44" id="svg_3"/>
-  <polygon _isTranslated="1" fill="#535461" id="svg_4" points="318.8 374.92 302.92 374.92 293.65 369.63 328.07 369.63 318.8 374.92"/>
-  <path _isTranslated="1" d="m451.55,223.78s-46.33,25.15 -52.95,75.45" fill="#fff" id="svg_5" opacity="0.1" transform="translate(-180.4 -86.46)"/>层
-  <text _mstHash="401" _mstTextHash="45977958" fill="#aaffff" font-family="Serif" font-size="24" id="svg_6" stroke-width="0" style="cursor: move;" text-anchor="middle" transform="rotate(-0.82788 313.2 218.333)" x="313.2" xml:space="preserve" y="227.13">卜卜生日快乐哇！！</text></g></svg>
+<svg width="360" height="640" xmlns="http://www.w3.org/2000/svg" data-name="Layer 1">
+ <title>happy birthday</title>
+
+ <g class="layer">
+  <title>Layer 1</title>
+  <text y="192.85" xml:space="preserve" x="695.41" transform="matrix(0.470369 0 0 0.529908 109.999 86.3225)" text-anchor="middle" stroke-width="0" id="svg_54" font-size="24" font-family="Serif" fill="#7f7f7f">不妨不妨,来日方长</text>
+  <path id="svg_56" fill="#aaaaff"/>
+  <g stroke="null" transform="translate(-124 -30) translate(485.09 32.9656) scale(1.00714 1) translate(-485.09 -32.9656)" style="vector-effect: non-scaling-stroke;" id="svg_31">
+   <title stroke="null" style="vector-effect: non-scaling-stroke;">happy birthday</title>
+   <g transform="translate(485.09 32.9656) scale(1.00714 1) translate(-485.09 -32.9656) translate(481.653 32.9656) scale(1.00714 1) translate(-481.653 -32.9656) translate(478.24 32.9656) scale(1.00714 1) translate(-478.24 -32.9656) translate(474.852 32.9656) scale(1.00714 1) translate(-474.852 -32.9656) translate(471.488 32.9656) scale(1.00714 1) translate(-471.488 -32.9656)" stroke="null" style="vector-effect: non-scaling-stroke;" id="svg_32" class="layer">
+    <title stroke="null" style="vector-effect: non-scaling-stroke;">Layer 1</title>
+    <path stroke="#535461" style="vector-effect: non-scaling-stroke;" d="m249.05,238.54c-1.14,6.35 0.58,13.85 3.92,17.2c1.4,1.4 3.02,2.1 4.37,3.62c2.95,3.3 4.12,9.61 5.07,15.41c1.1,6.68 2.2,13.74 1.2,20.45c-0.64,4.28 -2.11,8.07 -2.94,12.26a14.93,25.58 0 0 0 -0.71,10.92c0.12,1.96 0.41,3.97 1.19,5.43c1.13,2.08 2.95,2.4 4.58,2.9a22.24,38.11 0 0 1 15.99,21.22" fill="none" id="svg_30" stroke-miterlimit="10" stroke-width="2"/>
+    <polygon stroke="null" style="vector-effect: non-scaling-stroke;" fill="#ffffaa" id="svg_29" points="259.760009765625,236.7886632680893 242.27999877929688,236.7886632680893 245.34295654296875,226.9086583852768 255.82568359375,226.9086583852768 259.760009765625,236.7886632680893 "/>
+    <path stroke="null" style="vector-effect: non-scaling-stroke;" d="m297.73,166.06c0,24.43 -20.09,60.21 -44.86,60.21s-44.86,-35.79 -44.86,-60.21a44.86,44.22 0 0 1 89.73,0l0,0l-0.01,0z" fill="#ffffaa" id="svg_28"/>
+    <polygon stroke="null" style="vector-effect: non-scaling-stroke;" fill="#535461" id="svg_27" points="254.8397979736328,227.92001342773438 245.8802032470703,227.92001342773438 240.64999389648438,224.6300048828125 260.07000732421875,224.6300048828125 254.8397979736328,227.92001342773438 "/>
+    <path stroke="null" style="vector-effect: non-scaling-stroke;" d="m282.15,135.32s-46.33,25.15 -52.95,75.45" fill="#fff" id="svg_26" opacity="0.1"/>
+    <path stroke="#535461" style="vector-effect: non-scaling-stroke;" d="m336.98,368.64c-1.14,6.35 0.58,13.85 3.92,17.2c1.4,1.4 3.02,2.1 4.37,3.62c2.95,3.3 4.12,9.61 5.07,15.41c1.1,6.68 2.2,13.74 1.2,20.45c-0.64,4.28 -2.11,8.07 -2.94,12.26a14.93,25.58 0 0 0 -0.71,10.92c0.12,1.96 0.41,3.97 1.19,5.43c1.13,2.08 2.95,2.4 4.58,2.9a22.24,38.11 0 0 1 15.99,21.22" fill="none" id="svg_25" stroke-miterlimit="10" stroke-width="2"/>
+    <polygon stroke="null" style="vector-effect: non-scaling-stroke;" fill="#ffaad4" id="svg_24" points="347.6950378417969,368.24102783203125 330.21502685546875,368.24102783203125 333.2779541015625,358.36102294921875 343.76068115234375,358.36102294921875 347.6950378417969,368.24102783203125 "/>
+    <path stroke="null" style="vector-effect: non-scaling-stroke;" d="m383.66,296.16c0,24.43 -20.09,60.21 -44.86,60.21s-44.86,-35.79 -44.86,-60.21a44.86,44.22 0 0 1 89.73,0l0,0l-0.01,0z" fill="#ffaad4" id="svg_23"/>
+    <polygon stroke="null" style="vector-effect: non-scaling-stroke;" fill="#535461" id="svg_22" points="342.7748107910156,358.0210266113281 333.8152160644531,358.0210266113281 328.58502197265625,354.73101806640625 348.0050354003906,354.73101806640625 342.7748107910156,358.0210266113281 "/>
+    <path stroke="null" style="vector-effect: non-scaling-stroke;" d="m370.09,265.42s-46.33,25.15 -52.95,75.45" fill="#fff" id="svg_21" opacity="0.1"/>
+    <path stroke="#535461" style="vector-effect: non-scaling-stroke;" d="m336.98,368.64c-1.14,6.35 0.58,13.85 3.92,17.2c1.4,1.4 3.02,2.1 4.37,3.62c2.95,3.3 4.12,9.61 5.07,15.41c1.1,6.68 2.2,13.74 1.2,20.45c-0.64,4.28 -2.11,8.07 -2.94,12.26a14.93,25.58 0 0 0 -0.71,10.92c0.12,1.96 0.41,3.97 1.19,5.43c1.13,2.08 2.95,2.4 4.58,2.9a22.24,38.11 0 0 1 15.99,21.22" fill="none" id="svg_20" stroke-miterlimit="10" stroke-width="2"/>
+    <polygon stroke="null" style="vector-effect: non-scaling-stroke;" fill="#ffaad4" id="svg_19" points="347.6950378417969,368.24102783203125 330.21502685546875,368.24102783203125 333.2779541015625,358.36102294921875 343.76068115234375,358.36102294921875 347.6950378417969,368.24102783203125 "/>
+    <path stroke="null" style="vector-effect: non-scaling-stroke;" d="m383.66,296.16c0,24.43 -20.09,60.21 -44.86,60.21s-44.86,-35.79 -44.86,-60.21a44.86,44.22 0 0 1 89.73,0l0,0l-0.01,0z" fill="#ffaad4" id="svg_18"/>
+    <polygon stroke="null" style="vector-effect: non-scaling-stroke;" fill="#535461" id="svg_17" points="342.7748107910156,358.0210266113281 333.8152160644531,358.0210266113281 328.58502197265625,354.73101806640625 348.0050354003906,354.73101806640625 342.7748107910156,358.0210266113281 "/>
+    <path stroke="null" style="vector-effect: non-scaling-stroke;" d="m370.09,265.42s-46.33,25.15 -52.95,75.45" fill="#fff" id="svg_16" opacity="0.1"/>
+    <path stroke="#535461" style="vector-effect: non-scaling-stroke;" d="m335.98,149.64c-1.14,6.35 0.58,13.85 3.92,17.2c1.4,1.4 3.02,2.1 4.37,3.62c2.95,3.3 4.12,9.61 5.07,15.41c1.1,6.68 2.2,13.74 1.2,20.45c-0.64,4.28 -2.11,8.07 -2.94,12.26a14.93,25.58 0 0 0 -0.71,10.92c0.12,1.96 0.41,3.97 1.19,5.43c1.13,2.08 2.95,2.4 4.58,2.9a22.24,38.11 0 0 1 15.99,21.22" fill="none" id="svg_15" stroke-miterlimit="10" stroke-width="2"/>
+    <polygon stroke="null" style="vector-effect: non-scaling-stroke;" fill="#aaffd4" id="svg_14" points="346.6950378417969,149.24102783203125 329.21502685546875,149.24102783203125 332.2779541015625,139.36102294921875 342.76068115234375,139.36102294921875 346.6950378417969,149.24102783203125 "/>
+    <path stroke="null" style="vector-effect: non-scaling-stroke;" d="m382.66,77.16c0,24.43 -20.09,60.21 -44.86,60.21s-44.86,-35.79 -44.86,-60.21a44.86,44.22 0 0 1 89.73,0l0,0l-0.01,0z" fill="#aaffd4" id="svg_13"/>
+    <polygon stroke="null" style="vector-effect: non-scaling-stroke;" fill="#535461" id="svg_12" points="341.7748107910156,139.02102661132812 332.8152160644531,139.02102661132812 327.58502197265625,135.73101806640625 347.0050354003906,135.73101806640625 341.7748107910156,139.02102661132812 "/>
+    <path stroke="null" style="vector-effect: non-scaling-stroke;" d="m369.09,46.42s-46.33,25.15 -52.95,75.45" fill="#fff" id="svg_11" opacity="0.1"/>
+    <path stroke="#535461" style="vector-effect: non-scaling-stroke;" d="m434.98,253.64c-1.14,6.35 0.58,13.85 3.92,17.2c1.4,1.4 3.02,2.1 4.37,3.62c2.95,3.3 4.12,9.61 5.07,15.41c1.1,6.68 2.2,13.74 1.2,20.45c-0.64,4.28 -2.11,8.07 -2.94,12.26a14.93,25.58 0 0 0 -0.71,10.92c0.12,1.96 0.41,3.97 1.19,5.43c1.13,2.08 2.95,2.4 4.58,2.9a22.24,38.11 0 0 1 15.99,21.22" fill="none" id="svg_10" stroke-miterlimit="10" stroke-width="2"/>
+    <polygon stroke="null" style="vector-effect: non-scaling-stroke;" fill="#aad4ff" id="svg_9" points="445.6950378417969,253.24102783203125 428.21502685546875,253.24102783203125 431.2779541015625,243.36102294921875 441.76068115234375,243.36102294921875 445.6950378417969,253.24102783203125 "/>
+    <path stroke="null" style="vector-effect: non-scaling-stroke;" d="m481.66,179.81c0,24.43 -20.09,60.21 -44.86,60.21s-44.86,-35.79 -44.86,-60.21a44.86,44.22 0 0 1 89.73,0l0,0l-0.01,0z" fill="#aad4ff" id="svg_8"/>
+    <polygon stroke="null" style="vector-effect: non-scaling-stroke;" fill="#535461" id="svg_7" points="440.7748107910156,243.02102661132812 431.8152160644531,243.02102661132812 426.58502197265625,239.73101806640625 446.0050354003906,239.73101806640625 440.7748107910156,243.02102661132812 "/>
+    <path stroke="null" style="vector-effect: non-scaling-stroke;" d="m468.09,150.42s-46.33,25.15 -52.95,75.45" fill="#fff" id="svg_6" opacity="0.1"/>
+    <text stroke="null" style="vector-effect: non-scaling-stroke;" fill="#d4aaff" font-family="Serif" font-size="24" id="svg_5" stroke-width="0" text-anchor="middle" transform="matrix(0.464192 0 0 0.566214 110.565 75.5773)" x="307.97" xml:space="preserve" y="174.87">拨开宇宙,满眼温柔</text>
+    <text stroke="null" style="vector-effect: non-scaling-stroke;" fill="#ffffaa" font-family="Serif" font-size="24" id="svg_4" stroke-width="0" text-anchor="middle" transform="matrix(0.43331 0 0 0.493601 121.989 114.511)" x="497.12" xml:space="preserve" y="383.8">一如既往,万事胜意</text>
+    <text stroke="null" style="vector-effect: non-scaling-stroke;" fill="#ffaaaa" font-family="Serif" font-size="24" id="svg_3" stroke-width="0" text-anchor="middle" transform="matrix(0.451839 0 0 0.602521 117.338 75.5972)" x="488.64" xml:space="preserve" y="16.34">不烦世事,满心欢喜</text>
+    <text stroke="null" style="vector-effect: non-scaling-stroke;" fill="#7f7f7f" font-family="Serif" font-size="24" id="svg_2" stroke-width="0" text-anchor="middle" transform="matrix(0.470369 0 0 0.529908 109.999 86.3225)" x="695.41" xml:space="preserve" y="192.85">不妨不妨,来日方长</text>
+    <path stroke="null" style="vector-effect: non-scaling-stroke;" fill="#aaaaff" id="svg_1"/>
+   </g>
+  </g>
+ </g>
+</svg>
