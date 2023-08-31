@@ -195,18 +195,27 @@ const animationTimeline = () => {
       0.2,
       "+=1"
     )
-    .staggerFromTo(
+   .staggerFromTo(
       ".baloons img",
-      9.5,
-      {
-        opacity: 1,
-        y: 1400
-      },
+      4,
       {
         opacity: 1,
         y: -1000
       },
+      {
+        opacity: 1,
+        y: 0
+      },
       0.8
+    )
+    .to(
+      ".baloons img",
+      2,
+      {
+        opacity: 0,
+        y: 1400
+      },
+      "+=2"
     )
     .from(
       ".lydia-dp",

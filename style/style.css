@@ -24,8 +24,8 @@ body {
 
 .container div.seven,
 .container div.eight {
-  width: 100vw;
-  height: 100vh;
+  width: 10vw;
+  height: 10vh;
   position: fixed;
   top: 0;
 }
@@ -135,20 +135,20 @@ body {
   position: absolute;
 }
 
-.baloons img:nth-child(even) {
-  left: -10%;
+/*.baloons img:nth-child(even) {
+  left: 10%;
 }
 
 .baloons img:nth-child(odd) {
-  right: -10%;
+  right: 10%;
 }
 
 .baloons img:nth-child(3n + 0) {
   left: 30%;
-}
+}*/
 
 .eight svg {
-  width: 6px;
+  width: 45px;
   position: absolute;
   top: 0;
   left: 0;
