@@ -189,7 +189,7 @@ body {
 .baloons img {
   display: inline-block;
   position: absolute;
-  left: 195px
+  left: 50%;
 }
 
 .eight svg {
