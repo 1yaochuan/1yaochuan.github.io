@@ -7,6 +7,62 @@ body {
   font-family: "Work Sans", sans-serif;
 }
 
+.envelope {
+  position: relative;
+  width: 200px;
+  height: 150px;
+  background-color: #ffffff;
+  border: 2px solid #000000;
+  overflow: hidden;
+  transform-origin: top center;
+}
+
+.top {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 50%;
+  background-color: #ff0000;
+}
+
+.body {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 50%;
+  background-color: #ffffff;
+}
+
+.envelope.open {
+  animation: openEnvelope 1s ease-in-out forwards;
+}
+
+@keyframes openEnvelope {
+  from {
+    transform: rotateX(0deg);
+  }
+
+  to {
+    transform: rotateX(180deg);
+  }
+}
+
+#letter {
+  background-color: transparent;
+  border: none;
+  visibility: visible;
+}
+
+#letter img {
+  width: 300px;
+  height: 300px;
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+
 .container {
   height: 100vh;
   width: 100vh;
@@ -133,6 +189,7 @@ body {
 .baloons img {
   display: inline-block;
   position: absolute;
+  left: 600px
 }
 
 /*.baloons img:nth-child(even) {

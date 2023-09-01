@@ -18,7 +18,18 @@ const fetchData = () => {
         // Check if the iteration is over
         // Run amimation if so
         if ( dataArr.length === dataArr.indexOf(customData) + 1 ) {
+          // Get the button element
+        let button = document.getElementById('letter');
+        let audio = new Audio('music/birthday.mp3');
+        audio.loop = true;
+        // Add a click event listener to the button
+        button.addEventListener('click', function() {
+           button.style.visibility = 'hidden';
+           document.body.style.backgroundColor = '#fffff0';
+           audio.play();
+          // Call the animationTimeline function when the button is clicked
           animationTimeline();
+           });
         } 
       });
     });
@@ -210,12 +221,12 @@ const animationTimeline = () => {
     )
     .to(
       ".baloons img",
-      2,
+      0.1,
       {
         opacity: 0,
-        y: 1400
+        y: 10
       },
-      "+=2"
+      "+=10"
     )
     .from(
       ".lydia-dp",
