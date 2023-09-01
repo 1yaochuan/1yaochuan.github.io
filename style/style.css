@@ -189,20 +189,8 @@ body {
 .baloons img {
   display: inline-block;
   position: absolute;
-  left: 600px
+  left: 195px
 }
-
-/*.baloons img:nth-child(even) {
-  left: 10%;
-}
-
-.baloons img:nth-child(odd) {
-  right: 10%;
-}
-
-.baloons img:nth-child(3n + 0) {
-  left: 30%;
-}*/
 
 .eight svg {
   width: 45px;
@@ -216,39 +204,39 @@ body {
 .eight svg:nth-child(1) {
   top: 7vh;
   left: 5vw;
-  fill: #bd6ecf;
+  fill: #e0ffff;
 }
 
 .eight svg:nth-child(2) {
   top: 23vh;
   left: 35vw;
-  fill: #7dd175;
+  fill: #ffb6c1;
 }
 
 .eight svg:nth-child(3) {
   top: 33vh;
   left: 23vw;
-  fill: #349d8b;
+  fill: #90ee90;
 }
 
 .eight svg:nth-child(4) {
   top: 43vh;
   left: 57vw;
-  fill: #347a9d;
+  fill: #ffa07a;
 }
 
 .eight svg:nth-child(5) {
   top: 68vh;
   left: 7vw;
-  fill: #c66053;
+  fill: #f08080;
 }
 
 .eight svg:nth-child(6) {
   top: 42vh;
   left: 77vw;
-  fill: #bfaa40;
+  fill: #87cefa;
 }
-
+/*
 .eight svg:nth-child(7) {
   top: 68vh;
   left: 83vw;
@@ -265,7 +253,7 @@ body {
   top: 94vh;
   left: 87vw;
   fill: #9a90da;
-}
+}*/
 
 .wish-hbd {
   font-size: 3em;
