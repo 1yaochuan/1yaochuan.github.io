@@ -154,6 +154,12 @@ body {
   display: inline-block;
 }
 
+.idea-wish {
+  left: 45vw;
+  display: inline-block;
+  color: #ffb6c1;
+}
+
 .five .idea-5 {
   font-size: 4rem;
 }
@@ -189,7 +195,17 @@ body {
 .baloons img {
   display: inline-block;
   position: absolute;
-  left: 50%;
+  left: 120px;
+}
+
+img.n_two {
+  top: 2vh;
+  left: 30vw;
+}
+
+img.zero {
+  top: 2vh;
+  left: 35vw;
 }
 
 .eight svg {

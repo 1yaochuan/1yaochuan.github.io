@@ -220,13 +220,32 @@ const animationTimeline = () => {
       0.8
     )
     .to(
+      ".baloons img.n_two",
+      1,
+      {
+        opacity: 1,
+        y: 380
+      }
+    )
+    .to(
+      ".baloons img.zero",
+      1,
+      {
+        opacity: 1,
+        y: 380
+      }
+    )
+    .from(".idea-wish", 0.7, {opacity: 0})
+    .to(".idea-wish", 0.7, {opacity: 1,y:370})
+    .to(".idea-wish", 0.7, ideaTextTransLeave, "+=10")
+    .to(
       ".baloons img",
       0.1,
       {
         opacity: 0,
         y: 10
       },
-      "+=10"
+      "+=1"
     )
     .from(
       ".lydia-dp",
