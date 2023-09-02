@@ -74,8 +74,8 @@ body {
 }
 
 .container img.cake_2{
-  width: 50%;
-  height: 30%;
+  width: 100%;
+  height: 100%;
   visibility: hidden;
 }
 
@@ -197,9 +197,9 @@ body {
   /* transform: scale(0.1); */
 }
 
-.baloons img {
+/*.baloons img {
   visibility: hidden;
-}
+}*/
 
 img.cake {
   display: inline-block;
@@ -209,24 +209,19 @@ img.cake {
 
 img.n_two {
   top: 2vh;
-  left: 45vw;
+  left: 35vw;
+  visibility: hidden;
 }
 
 img.zero {
   top: 2vh;
-  left: 50vw;
+  left: 40vw;
+  visibility: hidden;
 }
 
-img.cake_2 {
+img.cake_1 {
   left: 15vw;
-}
-
-img.cake_3 {
-  left: 25vw;
-}
-
-img.cake_4 {
-  left: 35vw;
+  visibility: hidden;
 }
 
 .eight svg {

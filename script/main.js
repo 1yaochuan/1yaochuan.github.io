@@ -221,10 +221,6 @@ const animationTimeline = () => {
     .to(".cake_2", 0.7, ideaTextTransLeave, "+=4")
     .from(".idea-7", 0.7, ideaTextTrans)
     .to(".idea-7", 0.7, ideaTextTransLeave, "+=1.5")
-    .from(".idea-8", 0.7, ideaTextTrans)
-    .to(".idea-8", 0.7, ideaTextTransLeave, "+=1.5")
-    .from(".idea-9", 0.7, ideaTextTrans)
-    .to(".idea-9", 0.7, ideaTextTransLeave, "+=1.5")
     .to(".baloons img", 0, {
       visibility: "visible",
       y: -1000
