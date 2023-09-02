@@ -215,7 +215,7 @@ const animationTimeline = () => {
       1,
       {
         visibility: "visible",
-        y: 0
+        y: -200
       }
     )
     .to(".cake_2", 0.7, ideaTextTransLeave, "+=4")
