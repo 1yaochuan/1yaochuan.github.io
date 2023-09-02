@@ -206,8 +206,31 @@ const animationTimeline = () => {
       0.2,
       "+=1"
     )
+    .from(".cake_2", 0.7, {
+      visibility: "visible",
+      y: -3000
+      })
+     .to(
+      ".cake_2",
+      1,
+      {
+        visibility: "visible",
+        y: 0
+      }
+    )
+    .to(".cake_2", 0.7, ideaTextTransLeave, "+=4")
+    .from(".idea-7", 0.7, ideaTextTrans)
+    .to(".idea-7", 0.7, ideaTextTransLeave, "+=1.5")
+    .from(".idea-8", 0.7, ideaTextTrans)
+    .to(".idea-8", 0.7, ideaTextTransLeave, "+=1.5")
+    .from(".idea-9", 0.7, ideaTextTrans)
+    .to(".idea-9", 0.7, ideaTextTransLeave, "+=1.5")
+    .to(".baloons img", 0, {
+      visibility: "visible",
+      y: -1000
+    })
    .staggerFromTo(
-      ".baloons img",
+      ".baloons img.cake",
       4,
       {
         opacity: 1,
@@ -235,9 +258,16 @@ const animationTimeline = () => {
         y: 380
       }
     )
-    .from(".idea-wish", 0.7, {opacity: 0})
-    .to(".idea-wish", 0.7, {opacity: 1,y:370})
-    .to(".idea-wish", 0.7, ideaTextTransLeave, "+=10")
+    .from(".idea-wish", 0.7, ideaTextTrans)
+    .to(".idea-wish", 0.7, ideaTextTransLeave, "+=1.5")
+    .to(
+      ".baloons img.cake_1",
+      1,
+      {
+        opacity: 1,
+        y: 0
+      }
+    )
     .to(
       ".baloons img",
       0.1,
@@ -257,7 +287,7 @@ const animationTimeline = () => {
         y: -25,
         rotationZ: -45
       },
-      "-=2"
+      "+=0.2"
     )
     .from(".hat", 0.5, {
       x: -100,
@@ -306,7 +336,7 @@ const animationTimeline = () => {
     )
     .staggerTo(
       ".eight svg",
-      3,
+      2.5,
       {
         visibility: "visible",
         opacity: 0,

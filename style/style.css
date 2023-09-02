@@ -73,6 +73,12 @@ body {
   overflow: hidden;
 }
 
+.container img.cake_2{
+  width: 50%;
+  height: 30%;
+  visibility: hidden;
+}
+
 .container div.six {
   top: 10vh;
   z-index: 1;
@@ -156,7 +162,6 @@ body {
 
 .idea-wish {
   left: 45vw;
-  display: inline-block;
   color: #ffb6c1;
 }
 
@@ -193,18 +198,34 @@ body {
 }
 
 .baloons img {
+  visibility: hidden;
+}
+
+img.cake {
   display: inline-block;
   position: absolute;
-  left: 120px;
+  left: 115px;
 }
 
 img.n_two {
   top: 2vh;
-  left: 30vw;
+  left: 45vw;
 }
 
 img.zero {
   top: 2vh;
+  left: 50vw;
+}
+
+img.cake_2 {
+  left: 15vw;
+}
+
+img.cake_3 {
+  left: 25vw;
+}
+
+img.cake_4 {
   left: 35vw;
 }
 
