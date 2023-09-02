@@ -197,9 +197,9 @@ body {
   /* transform: scale(0.1); */
 }
 
-/*.baloons img {
-  visibility: hidden;
-}*/
+.baloons img {
+  display: inline-block;
+}
 
 img.cake {
   display: inline-block;
@@ -209,13 +209,13 @@ img.cake {
 
 img.n_two {
   top: 2vh;
-  left: 95vw;
+  left: 395vw;
   visibility: hidden;
 }
 
 img.zero {
   top: 2vh;
-  left: 100vw;
+  left: 400vw;
   visibility: hidden;
 }
 

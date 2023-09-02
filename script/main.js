@@ -218,7 +218,7 @@ const animationTimeline = () => {
         y: -200
       }
     )
-    .to(".cake_2", 0.7, ideaTextTransLeave, "+=4")
+    .to(".cake_2", 0.7, {opacity: 0}, "+=4")
     .from(".idea-7", 0.7, ideaTextTrans)
     .to(".idea-7", 0.7, ideaTextTransLeave, "+=1.5")
     .to(".baloons img", 0, {
@@ -261,7 +261,7 @@ const animationTimeline = () => {
       1,
       {
         opacity: 1,
-        y: 0
+        y: -90
       }
     )
     .to(
