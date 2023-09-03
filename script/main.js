@@ -215,7 +215,7 @@ const animationTimeline = () => {
       1,
       {
         visibility: "visible",
-        y: -150
+        y: -130
       }
     )
     .to(".cake_2", 0.7, {opacity: 0}, "+=4")
@@ -261,7 +261,7 @@ const animationTimeline = () => {
       1,
       {
         opacity: 1,
-        y: -90
+        y: -50
       }
     )
     .to(

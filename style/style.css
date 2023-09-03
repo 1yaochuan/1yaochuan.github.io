@@ -199,28 +199,28 @@ body {
 
 .baloons img {
   display: inline-block;
+  position: absolute;
 }
 
 img.cake {
   display: inline-block;
   position: absolute;
-  left: 115px;
+  left: 45vw;
 }
 
 img.n_two {
   top: 2vh;
-  left: 395vw;
+  left: 40vw;
   visibility: hidden;
 }
 
 img.zero {
   top: 2vh;
-  left: 400vw;
+  left: 45vw;
   visibility: hidden;
 }
 
 img.cake_1 {
-  left: 15vw;
   visibility: hidden;
 }
 
