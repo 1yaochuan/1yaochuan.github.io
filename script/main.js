@@ -215,7 +215,7 @@ const animationTimeline = () => {
       1,
       {
         visibility: "visible",
-        y: -130
+        y: -100
       }
     )
     .to(".cake_2", 0.7, {opacity: 0}, "+=4")
@@ -243,7 +243,7 @@ const animationTimeline = () => {
       1,
       {
         opacity: 1,
-        y: 380
+        y: 370
       }
     )
     .to(
@@ -251,11 +251,11 @@ const animationTimeline = () => {
       1,
       {
         opacity: 1,
-        y: 380
+        y: 370
       }
     )
     .from(".idea-wish", 0.7, ideaTextTrans)
-    .to(".idea-wish", 0.7, ideaTextTransLeave, "+=1.5")
+    .to(".idea-wish", 0.7, ideaTextTransLeave, "+=1")
     .to(
       ".baloons img.cake_1",
       1,
@@ -271,7 +271,7 @@ const animationTimeline = () => {
         opacity: 0,
         y: 10
       },
-      "+=1"
+      "+=3"
     )
     .from(
       ".lydia-dp",
@@ -287,7 +287,7 @@ const animationTimeline = () => {
     )
     .from(".hat", 0.5, {
       x: -100,
-      y: 450,
+      y: 500,
       rotation: -300,
       opacity: 0
     })
@@ -340,7 +340,8 @@ const animationTimeline = () => {
         repeat: 2,
         repeatDelay: 1.4
       },
-      0.7
+      0.7,
+      "-=2"
     )
     .to(".six", 0.5, {
       opacity: 0,

@@ -53,6 +53,9 @@ body {
   background-color: transparent;
   border: none;
   visibility: visible;
+  position: absolute;
+  top: 15vh;
+  left: 5vw;
 }
 
 #letter img {
@@ -206,23 +209,26 @@ body {
 img.cake {
   display: inline-block;
   position: absolute;
-  left: 28vw;
+  left: 24vw;
 }
 
 img.n_two {
   top: 2vh;
-  left: 45vw;
+  left: 40vw;
   visibility: hidden;
 }
 
 img.zero {
   top: 2vh;
-  left: 55vw;
+  left: 50vw;
   visibility: hidden;
 }
 
 img.cake_1 {
   visibility: hidden;
+  position: absolute;
+  top: 0vh;
+  left: 0vw;
 }
 
 .eight svg {
