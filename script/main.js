@@ -254,7 +254,12 @@ const animationTimeline = () => {
         y: 370
       }
     )
-    .from(".idea-wish", 0.7, ideaTextTrans)
+    .from(".idea-wish", 0.7, {
+    opacity: 0,
+    y: -20,
+    rotationX: 5,
+    skewX: "15deg"
+    })
     .to(".idea-wish", 0.7, ideaTextTransLeave, "+=1")
     .to(
       ".baloons img.cake_1",
