@@ -206,7 +206,7 @@ body {
 img.cake {
   display: inline-block;
   position: absolute;
-  left: 30vw;
+  left: 28vw;
 }
 
 img.n_two {
@@ -217,7 +217,7 @@ img.n_two {
 
 img.zero {
   top: 2vh;
-  left: 36vw;
+  left: 37vw;
   visibility: hidden;
 }
 
